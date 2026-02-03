@@ -1,0 +1,44 @@
+THINGS TO DO EACH DAY (Or whenever you have free time, schoolwork comes first)
+
+GOAL: 3-4 times per week of this stuff (try Tuesdays, Thursdays, maybe Monday nights. Weekends too)
+
+1. DSP/RF reading/research (20-40 minutes daily)
+    A. Start with textbooks the ham radio club gave you + RF fundamentals (PySDR is good too, it's bookmarked)
+    B. Spend the least of your effort on this part. Go for 30 minutes or so daily, read until your brain gets fuzzy or too bored to continue.
+    C. Good outcomes: I understand a concept better
+    D. Bad outcomes: I stared at a random equation for 2 hours, understand nothing, and hate myself (avoid this, your classes are for math. Your goal right now with little academic signals experience is CONCEPTS and basic understanding!)
+
+2. Messing around with GNU Radio / Python / Any project (30-90 minutes daily)
+    A. Change one parameter or variable and see how it affects the project
+    B. Break things on purpose to see their impact
+    C. Rebuild a chain from memory
+        "I wonder what happens if I remove this low-pass filter. Hey, why does my audio sound so muddy now?" -> the goal
+
+3. Notes/reflection (15-30 minutes daily)
+    A. Keep it LIGHT
+    B. BULLET POINTS IDEAL
+    C. Just write:
+        - What you worked on (ex: Fm demod in Gnu Radio)
+        - What WORKED in what you did (ex: FM demod gives clean-sounding audio at xyz bandwidth)
+        - What DIDN'T WORK and POSSIBLE SOLUTIONS TO TRY BASED ON WHAT YOU KNOW (Ex: SSB audio sounds distorted and muddy, maybe filter is too wide?)
+        - WHAT TO DO NEXT (Ex: Read about AGC)
+
+
+
+SHORTER-TERM GOALS:
+
+1. Understand what you did in AM demodulator
+
+2. Expand outwards with GNU Radio (FM demodulator)
+
+3. EXTRA GNU RADIO PROJECTS:
+    A. DIGITAL MODULATION RECEIVERS!
+        -Start with BPSK and expand into complex-baseband
+            -Download or capture some digital mode data and use it for your receiving in GNU Radio (
+
+4. Talk to LaBerge and get some guidance from him on what to do next
+  -“I’m a junior in computer engineering on the communications path. I’ve been getting deep into SDR, GNU Radio, and real RF signals on my own, and I’m trying to position myself for defense or satellite communications work.
+    I want to get involved in research or something beyond coursework. Do you know any faculty or labs at UMBC that do radio, communications, or satellite-related work that I should talk to?”
+
+      And if he gives you a name, ask
+      "Is it ok if I mention that you suggested I reach out?"
